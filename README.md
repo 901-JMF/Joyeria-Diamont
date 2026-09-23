@@ -1,1 +1,1 @@
-# Joyeria-Diamont
+# Joyeria-Diamond
