@@ -1,1 +1,30 @@
-# Joyeria-Diamond
+# Joyeria Diamond
+***
+
+## DESCRIPCIÓN
+Aplicación web 
+
+## OBJETIVO
+DESARROLLAR 
+
+## FUNCIONALIDADES 
+-[ ] CRUD CLIENTES
+-[ ] CRUD PRODUCTOS
+-[ ] CRUD OFERTAS
+-[ ] CARRITOS 
+-[ ] PAGOS
+
+## EQUIPO DE DESARROLLO 
++DESARROLLADOR1
++DESARROLLADOR2
++DESARROLLADOR3
+
+## PILA TECNOLÓGICA 
++ Lenguaje
++ Framework
++ BD
++ Editor
+
+## FECHAS
++ INICIO
++ FIN
